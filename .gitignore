@@ -1,22 +1,5 @@
-# Python caches
+.env
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Env files
-.env
-
-# VS Code
-.vscode/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Node / npm
-node_modules/
-package-lock.json
-
-# System files
-Thumbs.db
-.DS_Store
+jobs.json
+cvs/
